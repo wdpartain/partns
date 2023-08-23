@@ -1,6 +1,4 @@
----
-title: Part*n project documents
----
+# Part*n project documents
 
 More to come? but first...
 

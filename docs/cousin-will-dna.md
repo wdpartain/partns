@@ -1,6 +1,4 @@
----
-title: Cousin Will's introduction to DNA
----
+# Cousin Will's introduction to DNA
 
 (I am **NOT** a microbiologist, and am **HAPPY** to be corrected!)
 
